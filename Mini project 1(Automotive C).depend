@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697627560 source:e:\job\nti\mini project 1(automotive c)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vehicle.h"
+
+1697627031 e:\job\nti\mini project 1(automotive c)\vehicle.h
+
+1697621606 source:e:\job\nti\mini project 1(automotive c)\vehicle.c
+	"vehicle.h"
+
